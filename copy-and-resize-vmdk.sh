@@ -1,3 +1,4 @@
+# https://help.datto.com/s/article/KB206531773
 ## Mopy and move the datastore using vmkfstools
 ## vmkfstools(external link) is an ESXi command-line tool that you can use to manage virtual disks.
 ## To copy the datastore from the Datto appliance to a permanent datastore on VMware with thin disk provisioning, use the following command:
