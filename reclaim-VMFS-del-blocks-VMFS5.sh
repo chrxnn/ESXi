@@ -1,3 +1,4 @@
+# https://kb.vmware.com/s/article/2057513
 esxcli storage vmfs unmap -l MyDatastore
 # esxcli storage vmfs unmap --volume-label=volume_label|--volume-uuid=volume_uuid --reclaim-unit=number
 # The command takes these options:
